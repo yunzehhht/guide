@@ -1,0 +1,18 @@
+{
+  "name": "vuepress-starter",
+  "version": "1.0.0",
+  "description": "前端规范",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs"
+  },
+  "author": "yz",
+  "license": "ISC",
+  "devDependencies": {
+    "@vuepress/plugin-back-to-top": "^1.4.1",
+    "vuepress": "^1.4.1"
+  }
+}
